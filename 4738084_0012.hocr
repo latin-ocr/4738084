@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4738084_0012.png"; bbox 0 0 1844 2898; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 475 972 1316 1029">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 475 972 1316 1029">
+     <span class='ocr_line' id='line_1_1' title="bbox 475 972 1316 1029; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 475 973 849 1029; x_wconf 84' lang='lat' dir='ltr'><strong>PARENTIBUS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 877 972 1316 1028; x_wconf 85' lang='lat' dir='ltr'>DILECTISSIMIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 330 1201 1433 1504">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 330 1201 1433 1504">
+     <span class='ocr_line' id='line_1_2' title="bbox 330 1201 1433 1310; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 330 1250 759 1310; x_wconf 86' lang='lat' dir='ltr'><strong>ADOLPHO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 798 1201 1433 1309; x_wconf 83' lang='lat' dir='ltr'>KIRCHHOFFIO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 516 1456 1265 1504; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 516 1457 921 1504; x_wconf 81' lang='lat' dir='ltr'>PRAECEPTORI</span> <span class='ocrx_word' id='word_1_6' title='bbox 951 1456 1265 1503; x_wconf 81' lang='lat' dir='ltr'><strong>OARISSIMO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 776 1655 992 1694">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 776 1655 992 1694">
+     <span class='ocr_line' id='line_1_4' title="bbox 776 1655 992 1694; baseline -0.005 0"><span class='ocrx_word' id='word_1_7' title='bbox 776 1655 992 1694; x_wconf 86' lang='lat' dir='ltr'><strong>SACRUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
